@@ -1,7 +1,5 @@
-echo "# first" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jhonyescamillas/first.git
-git push -u origin main
+# rps.py is a program that emulates a game of Rock, Paper, Scissors
+# with some basic ASCII art to represent rock, paper, or scissors.
+#
+# blackjack.py is a program that lets user play a simple game of Blackjack.
+# The rules are pretty basic unlike the casino version of the game.
