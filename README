@@ -3,3 +3,6 @@
 #
 # blackjack.py is a program that lets user play a simple game of Blackjack.
 # The rules are pretty basic unlike the casino version of the game.
+#
+# guessing.py is a program that lets user play a number guessing game.
+# 
