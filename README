@@ -12,4 +12,7 @@
 # The snake proect is a program that lets users play the classic snake game.
 # The highscore is saved and is displayed every time the program is run.
 #
+# The PongGame project is a program that lets users play the classic Atari game, Pong.
+# The game is very similar to table tennis or ping pong. 
+#
 #
