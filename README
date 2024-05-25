@@ -7,4 +7,9 @@
 # guessing.py is a program that lets user play a number guessing game.
 # 
 # higherlower.py is a programs that lets a user play a game where they will
-# figure out which of the 2 random accounts have more followers
+# figure out which of the 2 random accounts have more followers.
+#
+# The snake proect is a program that lets users play the classic snake game.
+# The highscore is saved and is displayed every time the program is run.
+#
+#
