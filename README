@@ -15,4 +15,10 @@
 # The PongGame project is a program that lets users play the classic Atari game, Pong.
 # The game is very similar to table tennis or ping pong. 
 #
+# The TurtleCrossing project lets users play Turtle Crossing. The goal of the game 
+# is to get the turtle to get across to the top of the screen without getting hit 
+# by passing cars. The UP arrow moves the turtle. With each time the turtle crosses 
+# to the other side, it starts over from the bottom, increasing the level which 
+# increases the speed of the passing cars.
+#
 #
