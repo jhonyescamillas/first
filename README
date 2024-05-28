@@ -9,18 +9,6 @@
 # higherlower.py is a programs that lets a user play a game where they will
 # figure out which of the 2 random accounts have more followers.
 #
-# The snake proect is a program that lets users play the classic snake game.
-# The highscore is saved and is displayed every time the program is run.
-#
-# The PongGame project is a program that lets users play the classic Atari game, Pong.
-# The game is very similar to table tennis or ping pong. 
-#
-# The TurtleCrossing project lets users play Turtle Crossing. The goal of the game 
-# is to get the turtle to get across to the top of the screen without getting hit 
-# by passing cars. The UP arrow moves the turtle. With each time the turtle crosses 
-# to the other side, it starts over from the bottom, increasing the level which 
-# increases the speed of the passing cars.
-#
 # The US-state-game project lets users play an interactive game where they need to input all 50
 # states in the US. A US map is displayed with the names of each state as the user answers each
 # states.
